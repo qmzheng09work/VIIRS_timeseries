@@ -36,7 +36,7 @@ instruction:
 ### 3.2 Time series modelling 
 code: VIIRS_timeseries/Time Series fitting/
 
-(1) convert cf_cvg and avg_rad images to pixel time series (.csv files) @Image_to_time_series.py
+(1) convert cf_cvg and avg_rad images to pixel time series (.csv files) [Duck Duck Go](https://duckduckgo.com).
       
       time_series_fitting.m
 
