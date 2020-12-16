@@ -22,17 +22,10 @@ By following the introduction below you will be able to run all the codes and ge
 
 Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output)].
 
-(1) select the roi, for this example is Hangzhou;
-
-(2) set the start and end of the study period;
-
-(3) use "cf_cvg" and "avg_rad" seperately to output cloud free observation and averaged monthly radiance data of each roi;
-
 
 ### 3.2 Time series modelling 
 
-(1) convert cf_cvg and avg_rad images to pixel time series (.csv files) [code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/Image_to_time_series.py).
+(1) convert cf_cvg and avg_rad images to pixel time series (.csv files) [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/Image_to_time_series.py)].
       
-      time_series_fitting.m
 
       
