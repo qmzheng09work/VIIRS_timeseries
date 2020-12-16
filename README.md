@@ -22,7 +22,7 @@ By following the introduction below you will be able to run all the codes and ge
 
 code: VIIRS_timeseries/VIIRS time series output
 
-objecgive: stack and export the cf_cvg and avg_rad images
+objective: stack and export the cf_cvg and avg_rad images
 
 instruction: 
 
@@ -31,3 +31,10 @@ instruction:
 (2) set the start and end of the study period;
 
 (3) use "cf_cvg" and "avg_rad" seperately to output cloud free observation and averaged monthly radiance data of each roi;
+
+
+### 3.2 Time series modelling 
+code: VIIRS_timeseries/Time Series fitting/
+      -Image_to_time_series.py
+      -
+      
