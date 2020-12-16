@@ -37,6 +37,5 @@ instruction:
 code: VIIRS_timeseries/Time Series fitting/
 
       -Image_to_time_series.py
-      
-      -
+
       
