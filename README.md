@@ -20,11 +20,9 @@ By following the introduction below you will be able to run all the codes and ge
 
 ### 3.1 Export VIIRS time series from GEE
 
-code: VIIRS_timeseries/VIIRS time series output
-
 objective: stack and export the cf_cvg and avg_rad images
 
-instruction: 
+instruction [code] (https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output): 
 
 (1) select the roi, for this example is Hangzhou;
 
@@ -34,9 +32,8 @@ instruction:
 
 
 ### 3.2 Time series modelling 
-code: VIIRS_timeseries/Time Series fitting/
 
-(1) convert cf_cvg and avg_rad images to pixel time series (.csv files) [Duck Duck Go](https://duckduckgo.com).
+(1) convert cf_cvg and avg_rad images to pixel time series (.csv files) [code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/Image_to_time_series.py).
       
       time_series_fitting.m
 
