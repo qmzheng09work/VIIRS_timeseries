@@ -20,9 +20,7 @@ By following the introduction below you will be able to run all the codes and ge
 
 ### 3.1 Export VIIRS time series from GEE
 
-objective: stack and export the cf_cvg and avg_rad images
-
-instruction [code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output).: 
+Stack and export the cf_cvg and avg_rad images @[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output).
 
 (1) select the roi, for this example is Hangzhou;
 
