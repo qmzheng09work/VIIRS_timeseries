@@ -13,7 +13,7 @@ The codes of this repository is for characterising diverse types of urban land c
 Updated: Dec 20, 2020
 Version: V1.0
 
-The V1.0 is the unpolished version of the entire methhod framework. It works well, but it combines codes from GEE (javascript), matlab and python. We will try to update the algorihtm and compile all the codes into python.
+The V1.0 is the unpolished version of the entire methhod framework. It works well but combines codes from GEE (javascript), matlab and python. We will try to update the algorihtm and compile all the codes into matlab or python later.
 
 
 ## 3. Brief introduction of the work flow
@@ -48,3 +48,6 @@ Extract trajectory features and spectral features (of each month) from the estim
 
 Follow the detailed description in Section 3.3.3 and 3.3.4 of the paper to train Random Forest classifier, map monthly urban built-up area and identify urban land change types.
 
+### 3.5 Convert .csv files back to geotiff
+
+When necessary, you can use [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/csv_to_geotiff.m)] to convert .csv files back to geotiff. 
