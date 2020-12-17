@@ -4,8 +4,13 @@ clear;
 clc;
 close all;
 
+% set a random image of the targe region (e.g., avg_rad_NewYork.tif) to get the georeference information
 path_img='C:\Users\Qiming Zheng\Desktop\test1\BristolViirsAvg.tif';
+
+% set input folder that stores the .csv files of the same region
 path_folder='C:\Users\Qiming Zheng\Desktop\test1\variables\';
+
+% set output folder
 path_out_folder='C:\Users\Qiming Zheng\Desktop\test1\variables\';
 files=dir([path_folder,'*','.csv']);
 
