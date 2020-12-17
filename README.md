@@ -36,5 +36,9 @@ Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzhen
 
 ### 3.3 Feature extraction
 
-Extract trajectory features and spectral features from the estimated model parameters in Section 3.2 [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/feature_extraction.py)].
+Extract trajectory features and spectral features (of each month) from the estimated model parameters in Section 3.2 [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/feature_extraction.py)].
+
+### 3.4 Urban built-up area mapping and urban land change type identification
+
+Follow the detailed description in Section 3.3.3 and 3.3.4 of the paper to train Random Forest classifier, map monthly urban built-up area and identify urban land change types.
 
