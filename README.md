@@ -18,13 +18,13 @@ The V1.0 is the unpolished version of the entire methhod framework. It works wel
 
 By following the introduction below you will be able to run all the codes and get the results you want.
 
-### 3.1 Export VIIRS time series from GEE [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output)]
+### 3.1 Export VIIRS time series from GEE
 
-Stack and export the cf_cvg and avg_rad images.
+Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output)].
 
 
-### 3.2 Time series modelling [[code](https://github.com/qmzheng09work/VIIRS_timeseries/tree/main/Time%20Series%20fitting)]
+### 3.2 Time series modelling
 
-(1) convert cf_cvg and avg_rad images to pixel time series in .csv files [Image_to_time_series.py]
+(1) convert cf_cvg and avg_rad images to pixel time series in .csv files [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/Image_to_time_series.py)].
 
-(2) fit the pixel time series of each target region
+(2) fit the pixel time series of each target region [[code](https://github.com/qmzheng09work/VIIRS_timeseries/tree/main/Time%20Series%20fitting/fitting)].
