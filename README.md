@@ -29,8 +29,8 @@ Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzhen
 
 (2) fit the pixel time series of each target region [[code](https://github.com/qmzheng09work/VIIRS_timeseries/tree/main/Time%20Series%20fitting/fitting)].
     
-    put all the avg_rad and cf_cvg files in the same folder directory <path>, e.g., avg_rad_NewYork.csv, cf_cvg_NewYork.csv, avg_rad_London.csv, cf_cvg_London.csv.....
+   put all the avg_rad and cf_cvg files in the same folder directory <path>, e.g., avg_rad_NewYork.csv, cf_cvg_NewYork.csv, avg_rad_London.csv, cf_cvg_London.csv.....
     
-    set <path> and <out_path> in TS_fitting_v1_batch.m and run.
+   set <path> and <out_path> in TS_fitting_v1_batch.m and run.
 
 
