@@ -18,7 +18,7 @@
 % RMSE,Rsquare
 
 
-% When£º
+% WhenÂ£Âº
 % k=0 no change
 % k=1 false change;
 % k=4 LinH has a better fitting performance than LogH
