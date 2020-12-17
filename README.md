@@ -18,6 +18,8 @@ The V1.0 is the unpolished version of the entire methhod framework. It works wel
 
 By following the introduction below you will be able to run all the codes and get the results you want.
 
+You may either (1) use our codes (3.1 & 3.2) to fit monthly VIIRS time series and decomposite it into logistic trend, seasonality and error components or (2) follow the entire instruction of this section to map urban land change types.
+
 ### 3.1 Export VIIRS time series from GEE
 
 Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output)].
