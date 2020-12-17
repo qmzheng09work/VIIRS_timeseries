@@ -7,6 +7,7 @@ The codes of this repository is for characterising diverse types of urban land c
 (2) Extracted temporal features and spectral features from the fitting results;
 (3) Classify urban built-up area and disentangle different types of urban land changes;
 
+
 ## 2. Version info
 
 Updated: Dec 20, 2020
@@ -14,11 +15,13 @@ Version: V1.0
 
 The V1.0 is the unpolished version of the entire methhod framework. It works well, but it combines codes from GEE (javascript), matlab and python. We will try to update the algorihtm and compile all the codes into python.
 
+
 ## 3. Brief introduction of the work flow
 
 By following the introduction below you will be able to run all the codes and get the results you want.
 
 You may either (1) use our codes (3.1 & 3.2) to fit monthly VIIRS time series and decomposite it into logistic trend, seasonality and error components or (2) follow the entire instruction of this section to map urban land change types.
+
 
 ### 3.1 Export VIIRS time series from GEE
 
@@ -39,6 +42,7 @@ Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzhen
 ### 3.3 Feature extraction
 
 Extract trajectory features and spectral features (of each month) from the estimated model parameters in Section 3.2 [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/feature_extraction.py)].
+
 
 ### 3.4 Urban built-up area mapping and urban land change type identification
 
