@@ -25,6 +25,6 @@ Stack and export the cf_cvg and avg_rad images.
 
 ### 3.2 Time series modelling [[code](https://github.com/qmzheng09work/VIIRS_timeseries/tree/main/Time%20Series%20fitting)]
 
-(1) convert cf_cvg and avg_rad images to pixel time series in .csv files 
+(1) convert cf_cvg and avg_rad images to pixel time series in .csv files [Image_to_time_series.py]
 
-(2) fit the pixel time series of each target region (or city) 
+(2) fit the pixel time series of each target region
