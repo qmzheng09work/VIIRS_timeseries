@@ -34,3 +34,7 @@ Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzhen
    set <path> and <out_path> in TS_fitting_v1_batch.m and run.
 
 
+### 3.3 Feature extraction
+
+Extract trajectory features and spectral features from the estimated model parameters in Section 3.2 [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/Time%20Series%20fitting/feature_extraction.py)].
+
