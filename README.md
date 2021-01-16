@@ -25,7 +25,7 @@ You may either (1) use our codes (3.1 & 3.2) to fit monthly VIIRS time series an
 
 ### 3.1 Export VIIRS time series from GEE
 
-Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output)].
+Stack and export the cf_cvg and avg_rad images [[code](https://github.com/qmzheng09work/VIIRS_timeseries/blob/main/VIIRS%20time%20series%20output.js)].
 
 
 ### 3.2 Time series modelling
