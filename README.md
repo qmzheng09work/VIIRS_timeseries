@@ -9,9 +9,9 @@ The codes of this repository is for characterising diverse types of urban land c
 
 
 ## 2. Info
-Paper link: https://www.sciencedirect.com/science/article/pii/S0924271621000022
+**Paper link**: https://www.sciencedirect.com/science/article/pii/S0924271621000022
 
-Cite as: Zheng, Q., Weng, Q., & Wang, K. (2021). Characterizing urban land changes of 30 global megacities using nighttime light time series stacks. ISPRS Journal of Photogrammetry and Remote Sensing, 173, 10-23. doi:https://doi.org/10.1016/j.isprsjprs.2021.01.002
+**Cite as**: Zheng, Q., Weng, Q., & Wang, K. (2021). Characterizing urban land changes of 30 global megacities using nighttime light time series stacks. ISPRS Journal of Photogrammetry and Remote Sensing, 173, 10-23. doi:https://doi.org/10.1016/j.isprsjprs.2021.01.002
 
 Updated: Dec 20, 2020
 Version: V1.0
