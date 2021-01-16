@@ -8,12 +8,16 @@ The codes of this repository is for characterising diverse types of urban land c
 (3) Classify urban built-up area and disentangle different types of urban land changes;
 
 
-## 2. Version info
+## 2. Info
+Paper link: https://www.sciencedirect.com/science/article/pii/S0924271621000022
+Cite as: Zheng, Q., Weng, Q., & Wang, K. (2021). Characterizing urban land changes of 30 global megacities using nighttime light time series stacks. ISPRS Journal of Photogrammetry and Remote Sensing, 173, 10-23. doi:https://doi.org/10.1016/j.isprsjprs.2021.01.002
 
 Updated: Dec 20, 2020
 Version: V1.0
 
 The V1.0 is the unpolished version of the entire methhod framework. It works well but combines codes from GEE (javascript), matlab and python. We will try to update the algorihtm and compile all the codes into matlab or python later.
+
+
 
 
 ## 3. Brief introduction of the work flow
