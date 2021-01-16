@@ -13,7 +13,7 @@ The codes of this repository is for characterising diverse types of urban land c
 
 **Cite as**: Zheng, Q., Weng, Q., & Wang, K. (2021). Characterizing urban land changes of 30 global megacities using nighttime light time series stacks. ISPRS Journal of Photogrammetry and Remote Sensing, 173, 10-23. doi:https://doi.org/10.1016/j.isprsjprs.2021.01.002
 
-Updated: Dec 20, 2020
+Updated: Jan 16, 2021
 Version: V1.0
 
 The V1.0 is the unpolished version of the entire methhod framework. It works well but combines codes from GEE (javascript), matlab and python. We will try to update the algorihtm and compile all the codes into matlab or python later.
